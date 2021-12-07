@@ -47,4 +47,4 @@ class then register the number of subjects in that class and can mark the attend
  	<li>Password :-admin123</li>
 </ul>
 &nbsp;
-<h3>Installation :</h3>
+
